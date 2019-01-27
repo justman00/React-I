@@ -1,1 +1,49 @@
 /* All styles for your header Components live here */
+.header-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 2%;
+  align-items: flex-start;
+}
+
+.header-container .img-holder {
+  width: 25%;
+}
+.header-container .img-holder img {
+  width: 100%;
+}
+
+.header-container .header-container-content {
+  display: flex;
+  flex-direction: column;
+  margin-left: 2%;
+}
+
+.header-container-content p {
+  margin-top: 2%;
+  font-size: 1.6rem;
+  line-height: 1.25;
+}
+
+.names {
+  display: flex;
+  align-items: baseline;
+}
+
+.name-primary,
+.name-secondary {
+  margin: 0;
+}
+
+.name-primary {
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+.name-secondary {
+  margin-left: 2%;
+  font-size: 1.4rem;
+  opacity: 0.4;
+}
