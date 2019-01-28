@@ -7,40 +7,40 @@
 }
 
 .card-img {
-    margin-top: 2%;
-    width: 91%;
+  margin-top: 2%;
+  width: 91%;
 }
 
 .card-img img {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
 }
 
 .card-content {
-    width: 91%;
-    padding: 2.5%;
-    border-bottom: 1px solid #DCDCDC;
-    border-right: 1px solid #DCDCDC;
-    border-left: 1px solid #DCDCDC;
-    border-radius: 5px;
+  width: 91%;
+  padding: 2.5%;
+  border-bottom: 1px solid #dcdcdc;
+  border-right: 1px solid #dcdcdc;
+  border-left: 1px solid #dcdcdc;
+  border-radius: 5px;
+  color: black;
 }
 
 .card-content h2 {
-    font-size: 1.6rem;
-    font-weight: 700;
+  font-size: 1.6rem;
+  font-weight: 700;
 }
 
 .card-content p {
-    font-size: 1.4rem;
-    font-weight: 500;
-    margin-top: 1.5%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  margin-top: 1.5%;
+  line-height: 1.8rem;
 }
 
 .card-content p.react-blur {
-    font-size: 1.4rem;
-    font-weight: 500;
-    margin-top: 1.5%;
-    opacity: .5;
+  font-size: 1.4rem;
+  font-weight: 500;
+  margin-top: 1.5%;
+  opacity: 0.5;
 }
-
-

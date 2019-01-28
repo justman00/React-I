@@ -5,7 +5,7 @@ const CardBanner = () => {
   return (
     <div className="card-img">
       <img
-        src="https://facebook.github.io/create-react-app/img/logo-og.png"
+        src="https://tk-assets.lambdaschool.com/fcd75197-7d12-46ec-bc9e-4130f34822fa_reactbackground.png"
         alt="react logo"
       />
     </div>

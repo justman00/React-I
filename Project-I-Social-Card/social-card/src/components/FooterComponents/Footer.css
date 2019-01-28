@@ -1,0 +1,18 @@
+.footer-section {
+  align-self: flex-end;
+  width: 91%;
+  margin-top: 4%;
+  margin-bottom: 0.5%;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-between;
+
+  width: 50%;
+}
+
+.icons .icon {
+  font-size: 2rem;
+  opacity: 0.4;
+}
