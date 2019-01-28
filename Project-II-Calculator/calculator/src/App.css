@@ -1,0 +1,13 @@
+button {
+  outline: none;
+  cursor: pointer;
+}
+
+.container {
+  margin: 5% auto;
+  max-width: 300px;
+  border: 2px solid grey;
+
+  display: flex;
+  flex-direction: column;
+}

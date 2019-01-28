@@ -1,0 +1,79 @@
+.calculator-display {
+  display: flex;
+}
+
+.white-part {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  /* background: #fff; */
+  /* background-color: snow; */
+  /* border: 1px solid grey; */
+}
+
+.clear-button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background: #fff; */
+  /* border: 1px solid grey; */
+}
+
+.clear-button p {
+  padding: 19px 0;
+  font-size: 2rem;
+}
+
+.all-nums {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  /* background: #fff; */
+}
+
+.number-card {
+  width: 33.3%;
+  padding: 20px 0;
+  font-size: 2rem;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* background: #fff; */
+}
+
+.zero-button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* border: 1px solid grey; */
+
+  padding: 20px 0;
+  font-size: 2rem;
+  /* background: #fff; */
+}
+
+.red-part {
+  color: white;
+  width: 30%;
+  /* border: 1px solid grey; */
+  display: flex;
+  flex-direction: column;
+}
+
+.sign-card {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid grey;
+  background-color: darkred;
+  padding: 20px 0;
+  font-size: 2rem;
+}
