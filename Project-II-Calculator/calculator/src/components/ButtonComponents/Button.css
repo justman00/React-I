@@ -11,20 +11,6 @@
   /* border: 1px solid grey; */
 }
 
-.clear-button {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  /* background: #fff; */
-  /* border: 1px solid grey; */
-}
-
-.clear-button p {
-  padding: 19px 0;
-  font-size: 2rem;
-}
-
 .all-nums {
   display: flex;
   flex-wrap: wrap;
