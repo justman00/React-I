@@ -1,0 +1,13 @@
+.display-calc {
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.display-calc p {
+  background-color: black;
+  color: white;
+  font-size: 2.4rem;
+  padding: 7% 3%;
+}
